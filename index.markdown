@@ -4,7 +4,6 @@
 
 layout: home
 ---
-##### 日本語/[ENGLISH](http://tomo-wb.jp/eng)
 
 # 所属
 - フューチャー株式会社
@@ -15,7 +14,6 @@ layout: home
 - Twitter: [tomo_wb](http://twitter.com/tomo_wb)
 - Skype: tomo_wb 
 - Blog: [きょおいくにっき](http://tomo-wb.jp/blog)
-- facebook, mixi, google+もやっています． 
 
 # 職歴
 - 2019.10〜 理化学研究所革新知能統合研究センター 客員研究員
@@ -29,7 +27,7 @@ layout: home
 - 2006.4〜2010.3 甲南大学理工学部情報システム工学科 (2009.4〜2010.3 言語処理研究室所属)
 
 # Research Interest
-自然言語処理，機械翻訳，文法誤り訂正，自動採点，第2言語学習・教育支援，手話 
+自然言語処理，機械翻訳，文法誤り訂正，自動採点，第2言語学習・教育支援
 
 # 研究発表
 

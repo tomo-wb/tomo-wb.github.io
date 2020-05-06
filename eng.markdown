@@ -3,7 +3,7 @@ layout: page
 title: 
 permalink: /eng
 ---
-##### 日本語/[ENGLISH](http://tomo-wb.jp/eng)
+##### [日本語](https://tomo-wb.jp)/ENGLISH
 
 # 所属
 - フューチャー株式会社
@@ -14,7 +14,6 @@ permalink: /eng
 - Twitter: [tomo_wb](http://twitter.com/tomo_wb)
 - Skype: tomo_wb 
 - Blog: [きょおいくにっき](http://tomo-wb.jp/blog)
-- facebook, mixi, google+もやっています． 
 
 # 職歴
 - 2019.10〜 理化学研究所革新知能統合研究センター 客員研究員
@@ -28,15 +27,15 @@ permalink: /eng
 - 2006.4〜2010.3 甲南大学理工学部情報システム工学科 (2009.4〜2010.3 言語処理研究室所属)
 
 # Research Interest
-自然言語処理，機械翻訳，文法誤り訂正，自動採点，第2言語学習・教育支援，手話 
+自然言語処理，機械翻訳，文法誤り訂正，自動採点，第2言語学習・教育支援
 
 # 研究発表
 
-## 論文誌（査読あり）
+#### 論文誌（査読あり）
 - 浅野 広樹，<u>水本 智也</u>，乾 健太郎. 文法性・流暢性・意味保存性に基づく文法誤り訂正の参照無し評価. 言語処理学会論文誌, Vol. 25, No.5, pp. 555-576, December 2018.
 - <u>水本智也</u>, 小町守, 永田昌明, 松本裕治. 日本語学習者の作文自動誤り訂正のための語学学習SNSの添削ログからの知識獲得. 人工知能学会論文誌, Vol.28, No.5, pp.420-432, July 2013. ([論文](https://www.jstage.jst.go.jp/article/tjsai/28/5/28_B-C76/_pdf))
 
-## 国際会議（査読あり）
+#### 国際会議（査読あり）
 
 - Tianqi Wang, Naoya Inoue, Hiroki Ouchi, <u>Tomoya Mizumoto</u> and Kentaro Inui. Inject Rubrics into Short Answer Grading System. In Proceedings of the 2nd Workshop on Deep Learning Approaches for Low-Resource NLP (DeepLo 2019), pp. 175-182, November 2019.
 - Shun Kiyono, Jun Suzuki, Masato Mita, <u>Tomoya Mizumoto</u> and Kentaro Inui. An Empirical Study of Incorporating Pseudo Data into Grammatical Error Correction. In Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP), pp. 1236-1242, November 2019.
@@ -55,7 +54,6 @@ permalink: /eng
 - Ryo Nagata, <u>Tomoya Mizumoto</u>, Kotaro Funakoshi and Mikio Nakano. Toward a Chanting Robot for Interactively Teaching English to Children. In Proceedings of the INTERSPEECH 2010 Satellite Workshop on Second Language Studies:Acquisition, Learning, Education and Technology (L2WS2010), Tokyo, Japan, September 2010.
 
 ## 国際会議（その他）
-
 - Hiroki Asano, Masato Mita, <u>Tomoya Mizumoto</u> and Jun Suzuki. The AIP-Tohoku System at the BEA-2019 Shared Task. In Proceedings of the Fourteenth Workshop on Innovative Use of NLP for Building Educational Applications (BEA14), pp. 176-182, August 2019. 
 - Ippei Yoshimoto, Tomoya Kose, Kensuke Mitsuzawa, Keisuke Sakaguchi, <u>Tomoya Mizumoto</u>, Yuta Hayashibe, Mamoru Komachi and Yuji Matsumoto. NAIST at 2013 CoNLL Shared Task Grammatical Error Correction. In Proceedings of the Seventeenth Conference on Computational Natural Language Learning: Shared Task, pp.26-33, August 2013.
 - <u>Tomoya Mizumoto</u>, Yuta Hayashibe, Keisuke Sakaguchi, Mamoru Komachi and Yuji Matsumoto. NAIST at the NLI 2013 Shared Task. In Proceedings of the 8th Workshop on Innovative Use of NLP for Building Educational Applications, pp.134-139, Atlanta, America, June 2013.
