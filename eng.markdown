@@ -53,7 +53,7 @@ permalink: /eng
 - Kotaro Funakoshi, <u>Tomoya Mizumoto</u>, Ryo Nagata (Konan Univ.) and Mikio Nakano. The Chanty Bear: A New Application for HRI Research. In Proceedings of the International Conference on HUMAN-ROBOT INTERACTION 2011, pp.141-142, Lausanne, Switzerland, March 2011.
 - Ryo Nagata, <u>Tomoya Mizumoto</u>, Kotaro Funakoshi and Mikio Nakano. Toward a Chanting Robot for Interactively Teaching English to Children. In Proceedings of the INTERSPEECH 2010 Satellite Workshop on Second Language Studies:Acquisition, Learning, Education and Technology (L2WS2010), Tokyo, Japan, September 2010.
 
-## 国際会議（その他）
+#### 国際会議（その他）
 - Hiroki Asano, Masato Mita, <u>Tomoya Mizumoto</u> and Jun Suzuki. The AIP-Tohoku System at the BEA-2019 Shared Task. In Proceedings of the Fourteenth Workshop on Innovative Use of NLP for Building Educational Applications (BEA14), pp. 176-182, August 2019. 
 - Ippei Yoshimoto, Tomoya Kose, Kensuke Mitsuzawa, Keisuke Sakaguchi, <u>Tomoya Mizumoto</u>, Yuta Hayashibe, Mamoru Komachi and Yuji Matsumoto. NAIST at 2013 CoNLL Shared Task Grammatical Error Correction. In Proceedings of the Seventeenth Conference on Computational Natural Language Learning: Shared Task, pp.26-33, August 2013.
 - <u>Tomoya Mizumoto</u>, Yuta Hayashibe, Keisuke Sakaguchi, Mamoru Komachi and Yuji Matsumoto. NAIST at the NLI 2013 Shared Task. In Proceedings of the 8th Workshop on Innovative Use of NLP for Building Educational Applications, pp.134-139, Atlanta, America, June 2013.
@@ -62,16 +62,16 @@ permalink: /eng
 - <u>Tomoya Mizumoto</u>. A Method for Automatically Determining Stresses for English Chants in Second Language Learning (発表のみ). International Conference of young researchers in Language Didactics and Linguistics, Grenoble, France, June 2010. ([概要](http://tomo-wb.jp/paper/Cedil2010_abst_Mizumoto.pdf)-2枚-)
 
 # 研究活動
-## 研究費
+#### 研究費
 - 平成25年度 科学研究費補助金 特別研究員奨励費. 「大規模学習者コーパスを用いた自然言語処理による学習支援システムの開発」．200万円（100/100）．(2013.4 - 2015.3)
 - 平成24年度 NAIST Creative and International Competitiveness Project ([CICP2012](https://cicp.naist.jp/?q=en)). 「暮らしやすい社会の創造を目指した手話生成システムのオープンソース化」. 78万円. リーダー：三澤 賢祐.（メンバー，2012.06-2013.03）
 
-## 学会活動
+#### 学会活動
 - The 5th Workshop on Natural Language Processing Techniques for Educational Applications (ACL2018 Workshop) Program Committee Member
 - The 4th Workshop on Natural Language Processing Techniques for Educational Applications (IJCNLP2017 Workshop) Program Committee Member
 - The 3rd Workshop on Natural Language Processing Techniques for Educational Applications (COLING2016 Workshop) Program Committee Member
 
-## インターンシップ
+#### インターンシップ
 - LIMSI-CNRS, France (2013.4 - 2013.7)
 - ヤフー株式会社 (2011.8 - 2011.9, 2011.11 - 2012.1)
 - 甲南大学 言語処理研究室 (2011.8)
