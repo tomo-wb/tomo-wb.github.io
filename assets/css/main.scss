@@ -1,0 +1,42 @@
+---
+---
+
+@import "minimal-mistakes";
+
+.full-width {
+  .sidebar {
+    display: none;
+  }
+
+  .initial-content {
+    max-width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .page {
+    float: none;
+    width: 100%;
+    max-width: none;
+  }
+
+  .page__inner-wrap {
+    max-width: 100%;
+  }
+}
+
+body {
+  font-family: 'LINE Seed JP', sans-serif !important;
+}
+
+.page__content {
+  font-size: 0.85em;
+}
+
+.page__content li {
+  font-size: 0.7em;
+}
+
+.about-page ul li {
+  font-size: 0.8rem;
+}
