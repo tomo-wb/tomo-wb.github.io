@@ -1,26 +1,14 @@
 ---
-permalink: /about/
+permalink: /
 title: "About"
 classes: ["wide", "about-page"]
 layout: single
+author_profile: true
 ---
 
 I am a research engineer at SB Intuitions Corp., focusing on speech language models (Speech LLMs).
 My research involves building models that integrate speech and language. 
 Recently, I have also begun exploring dialectal variation in speech and language processing.
-
-## Recent Posts
-
-{% assign posts = site.posts | slice: 0, 3 %}
-
-{% for post in posts %}
-  {% assign teaser = post.header.teaser | default: "/assets/images/default.jpg" %}
-  {% include feature_row id=forloop.index 
-     title=post.title 
-     excerpt=post.excerpt 
-     url=post.url 
-     image_path=teaser %}
-{% endfor %}
 
 ## Research Interests
 
