@@ -40,3 +40,43 @@ body {
 .about-page ul li {
   font-size: 0.8rem;
 }
+
+.fn {
+  position: relative;
+  cursor: pointer;
+  color: #4f46e5;
+  font-size: 0.9em;
+}
+
+.fn::after {
+  content: attr(data-note);
+  position: absolute;
+  bottom: 130%;
+  left: 0;
+  background: #1f2937;
+  color: #fff;
+  padding: 8px 10px;
+  font-size: 12px;
+  border-radius: 8px;
+  width: 200px;
+  line-height: 1.4;
+  opacity: 0;
+  transform: translateY(6px);
+  transition: all 0.2s ease;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.2);
+}
+
+
+.fn:hover::after {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.post-page .page__content {
+  font-size: 0.9em;
+  line-height: 1.9;
+}
+
+.post-page .page__content li {
+  font-size: 0.9em;
+}
