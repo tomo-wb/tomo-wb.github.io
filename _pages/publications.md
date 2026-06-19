@@ -17,7 +17,8 @@ toc: false
 
 ## Conference Papers (Referred)
 ### 2026
-- Junya Takayama, Masaya Ohagi, <u>Tomoya Mizumoto</u>, Katsumasa Yoshikawa. Evaluating the Impact of Question Wording Variations on Answer Consistency in Large Language Models. in Proceedings of the Fifteenth biennial Language Resources and Evaluation Conference (LREC 2026), May 2026.
+- <u>Tomoya Mizumoto</u>,  Yusuke Fujita. Does Translation-Enhanced Speech Encoder Pre-training Affect Speech LLMs?. In Proceedings of Interspeech 2026, September 2026.
+- Junya Takayama, Masaya Ohagi, <u>Tomoya Mizumoto</u>, Katsumasa Yoshikawa. Evaluating the Impact of Question Wording Variations on Answer Consistency in Large Language Models. In Proceedings of the Fifteenth biennial Language Resources and Evaluation Conference (LREC 2026), May 2026.
 
 ### 2025
 - <u>Tomoya Mizumoto</u>, Yusuke Fujita, Hao Shi, Lianbo Liu, Atsushi Kojima, Yui Sudo, Evaluating Japanese Dialect Robustness across Speech and Text-based Large Language Models.  In Proceedings of the IEEE Automatic Speech Recognition and Understanding Workshop 2025 (ASRU2025), December 2025.
