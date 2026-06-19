@@ -16,7 +16,10 @@ toc: false
 - <u>水本智也</u>, 小町守, 永田昌明, 松本裕治. 日本語学習者の作文自動誤り訂正のための語学学習SNSの添削ログからの知識獲得. 人工知能学会論文誌, Vol.28, No.5, pp.420-432, July 2013.
 
 ## Conference Papers (Referred)
+### 2026
 - Junya Takayama, Masaya Ohagi, <u>Tomoya Mizumoto</u>, Katsumasa Yoshikawa. Evaluating the Impact of Question Wording Variations on Answer Consistency in Large Language Models. in Proceedings of the Fifteenth biennial Language Resources and Evaluation Conference (LREC 2026), May 2026.
+
+### 2025
 - <u>Tomoya Mizumoto</u>, Yusuke Fujita, Hao Shi, Lianbo Liu, Atsushi Kojima, Yui Sudo, Evaluating Japanese Dialect Robustness across Speech and Text-based Large Language Models.  In Proceedings of the IEEE Automatic Speech Recognition and Understanding Workshop 2025 (ASRU2025), December 2025.
 - Hao Shi, Yusuke Fujita, <u>Tomoya Mizumoto</u>, Lianbo Liu, Atsushi Kojima, Yui Sudo, Serialized Output Prompting for Large Language Model-based Multi-Talker Speech Recognition. In Proceedings of the IEEE Automatic Speech Recognition and Understanding Workshop 2025 (ASRU2025), December 2025.
 - Atsushi Kojima, Yusuke Fujita, Hao Shi, <u>Tomoya Mizumoto</u>, Mengjie Zhao, Yui Sudo, Conversation Context-aware Direct Preference Optimization for Style-Controlled Speech Synthesis. In Proceedings of the 17th Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC 2025), October 2025.
@@ -24,28 +27,52 @@ toc: false
 - Yui Sudo, Yusuke Fujita, Atsushi Kojima, <u>Tomoya Mizumoto</u>, Lianbo Liu, OWSM-Biasing: Contextualizing Open Whisper-Style Speech Models for Automatic Speech Recognition with Dynamic Vocabulary. In Proceedings of Interspeech 2025, August 2025.
 - <u>Tomoya Mizumoto</u>, Atsushi Kojima, Yusuke Fujita, Lianbo Liu, Yui Sudo, Is Synthetic Data Truly Effective for Training Speech Language Models?, In Proceedings of Interspeech 2025, August 2025.
 - Junya Takayama, Masaya Ohagi, <u>Tomoya Mizumoto</u>, Katsumasa Yoshikawa. Persona-Consistent Dialogue Generation via Pseudo Preference Tuning. In Proceedings of the 31st International Conference on Computational Linguistics (COLING 2025), January 2025.
+
+### 2024
 - Masaya Ohagi, <u>Tomoya Mizumoto</u>, Katsumasa Yoshikawa. Investigation of look-ahead techniques to improve response time in spoken dialogue system. In Proceedings of Interspeech 2024, September 2024.
 - <u>Tomoya Mizumoto</u>, Takato Yamazaki, Katsumasa Yoshikawa, Masaya Ohagi, Toshiki Kawamoto, Toshinori Sato. Dialogue Systems Can Generate Appropriate Responses without the Use of Question Marks?– a Study of the Effects of “?” for Spoken Dialogue Systems –.  In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), May 2024.
+
+### 2023
 - Takato Yamazaki, <u>Tomoya Mizumoto</u>, Katsumasa Yoshikawa, Masaya Ohagi, Toshiki Kawamoto, Toshinori Sato. An Open-Domain Avatar Chatbot by Exploiting a Large Language Model,  In Proceedings of the 24th Meeting of the Special Interest Group on Discourse and Dialogue (SIGDIAL 2023), September 2023.
 - Yuya Asazuma, Hiroaki Funayama, Yuichiroh Matsubayashi, <u>Tomoya Mizumoto</u>, Paul Reisert, Kentaro Inui. Take No Shortcuts! Stick to the Rubric: A Method for Building Trustworthy Short Answer Scoring Models.  In Proceedings of the 5th International Conference on Higher Education Learning Methodologies and Technologies Online (HELMeTO 2023), September 2023.
 - Hiroaki Funayama , Yuya Asazuma, Yuichiroh Matsubayashi, <u>Tomoya Mizumoto</u>, Jun Suzuki and Kentaro Inui. Reducing the Cost: Cross-Prompt Pre-Finetuning for Short Answer Scoring.  In Proceedings of the 24th International Conference on Artificial Intelligence in Education (AIED2023), pp.78-89, July 2023.
+
+### 2022
 - Hiroaki Funayama, Tasuku Sato, Yuichiroh Matsubayashi, <u>Tomoya Mizumoto</u>, Jun Suzuki and Kentarou Inui. Balancing Cost and Quality: An Exploration of Human-in-the-loop Frameworks for Automated Short Answer Scoring.  In Proceedings of the 2022 conference on Artificial Intelligence in Education, pp. 465--476, July 2022.
+
+### 2020
 - Hiroaki Funayama, Shota Sasaki, Yuichiroh Matsubayashi, <u>Tomoya Mizumoto</u>, Jun Suzuki, Masato Mita, Kentaro Inui. Preventing Critical Scoring Errors in Short Answer Scoring with Confidence Estimation. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics: Student Research Workshop, pp. 237-243, July 2020.
 Jot something down
+
+### 2019
 - Tianqi Wang, Naoya Inoue, Hiroki Ouchi, <u>Tomoya Mizumoto</u> and Kentaro Inui. Inject Rubrics into Short Answer Grading System. In Proceedings of the 2nd Workshop on Deep Learning Approaches for Low-Resource NLP (DeepLo 2019), pp. 175-182, November 2019.
 - Shun Kiyono, Jun Suzuki, Masato Mita, <u>Tomoya Mizumoto</u> and Kentaro Inui. An Empirical Study of Incorporating Pseudo Data into Grammatical Error Correction. In Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP), pp. 1236-1242, November 2019.
 - <u>Tomoya Mizumoto</u>, Hiroki Ouchi, Yoriko Isobe, Paul Reisert, Ryo Nagata, Satoshi Sekine and Kentaro Inui. Analytic Score Prediction and Justification Identification in Automated Short Answer Scoring. In Proceedings of the Fourteenth Workshop on Innovative Use of NLP for Building Educational Applications (BEA14), pp. 316-325, August 2019.
 - Masato Mita, <u>Tomoya Mizumoto</u>, Masahiro Kaneko, Ryo Nagata and Kentaro Inui. Cross-Corpora Evaluation and Analysis of Grammatical Error Correction Models — Is Single-Corpus Evaluation Enough?. To appear in Proceedings of the 17th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT 2019), pp.1309–1314, June 2019.
+
+### 2018
 - Ryo Nagata, <u>Tomoya Mizumoto</u>, Yuta Kikuchi, Yoshifumi Kawasaki and Kotaro Funakoshi. A POS Tagging Model Designed for Learner English. In Proceedings of the 4th Workshop on Noisy User-generated Text (W-NUT). pp. 39-48, November 2018.
+
+### 2017
 - <u>Tomoya Mizumoto</u> and Ryo Nagata. Analyzing the Impact of Spelling Errors on POS-Tagging and Chunking in Learner English. In Proceedings of the 4th Workshop on Natural Language Processing Techniques for Educational Applications (NLPTEA2017), pp. 54-58, December 2017.
 - Hiroki Asano, <u>Tomoya Mizumoto</u> and Kentaro Inui. Reference-based Metrics can be Replaced with Reference-less Metrics in Evaluating Grammatical Error Correction Systems. In Proceedings of the 8th International Joint Conference on Natural Language Processing (IJCNLP2017), pp. 343-348, November 2017.
+
+### 2016
 - <u>Tomoya Mizumoto</u> and Yuji Matsumoto. Discriminative Reranking for Grammatical Error Correction with Statistical Machine Translation. In Proceedings of the 2016 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (NAACL-HLT2016), pp. 1133-1138, June 2016.
 - Kensuke Mitsuzawa, Maito Tauchi, Mathieu Domoulin, Masanori Nakashima and <u>Tomoya Mizumoto</u>. FKC Corpus: a Japanese Corpus from New Opinion Survey Service. In proceedings of the Novel Incentives for Collecting Data and Annotation from People: types, implementation, tasking requirements, workflow and results, pp. 11-18, Portorož, Slovenia, May 2016.
+
+### 2015
 - <u>Tomoya Mizumoto</u>, Masato Mita and Yuji Matsumoto. Grammatical Error Correction Considering Multi-word Expressions. In Proceedings of the 2nd Workshop on Natural Language Processing Techniques for Educational Applications (NLP-TEA2), pp.82-86, July 2015.
+
+### 2012
 - Keisuke Sakaguchi, <u>Tomoya Mizumoto</u>, Mamoru Komachi and Yuji Matsumoto. Joint English Spelling Error Correction and POS Tagging for Language Learners Writing. In Proceedings of the 24th International Conference on Computational Linguistics (COLING-2012), pp.2357-2374, December 2012.
 - <u>Tomoya Mizumoto</u>, Yuta Hayashibe, Mamoru Komachi, Masaaki Nagata and Yuji Matsumoto. The Effect of Learner Corpus Size in Grammatical Error Correction of ESL Writings. In Proceedings of the 24th International Conference on Computational Linguistics (COLING-2012), pp.863-872, December 2012.
+
+### 2011
 - <u>Tomoya Mizumoto</u>, Mamoru Komachi, Masaaki Nagata and Yuji Matsumoto. Mining Revision Log of Language Learning SNS for Automated Japanese Error Correction of Second Language Learners. In Proceedings of the International Joint Conference on Natural Language Processing (IJCNLP2011), pp.147-155, November 2011.
 - Kotaro Funakoshi, <u>Tomoya Mizumoto</u>, Ryo Nagata,  Mikio Nakano. The Chanty Bear: A New Application for HRI Research. In Proceedings of the International Conference on HUMAN-ROBOT INTERACTION 2011, pp.141-142, March 2011.
+
+### 2010
 - Ryo Nagata, <u>Tomoya Mizumoto</u>, Kotaro Funakoshi,  Mikio Nakano. Toward a Chanting Robot for Interactively Teaching English to Children. In Proceedings of the INTERSPEECH 2010 Satellite Workshop on Second Language Studies:Acquisition, Learning, Education and Technology (L2WS2010), September 2010.
 
 ## Conference Papers (Non-refereed)
