@@ -17,6 +17,7 @@ toc: false
 
 ## Conference Papers (Referred)
 ### 2026
+- Shunsuke Mitsumori, <u>Tomoya Mizumoto</u>, Yusuke Fujita. Dialect-Robust Speech Language Models with Synthetic Pseudo-Dialect Augmentation. In Proceedings of the IEEE Spoken Language Technology Workshop (SLT 2026), December 2026.
 - <u>Tomoya Mizumoto</u>,  Yusuke Fujita. Does Translation-Enhanced Speech Encoder Pre-training Affect Speech LLMs?. In Proceedings of Interspeech 2026, September 2026.
 - Junya Takayama, Masaya Ohagi, <u>Tomoya Mizumoto</u>, Katsumasa Yoshikawa. Evaluating the Impact of Question Wording Variations on Answer Consistency in Large Language Models. In Proceedings of the Fifteenth biennial Language Resources and Evaluation Conference (LREC 2026), May 2026.
 
@@ -94,3 +95,6 @@ Jot something down
 
 ## Books
 - <u>水本智也</u> (分担執筆). 第二言語学習者のための文法誤り訂正～訂正技術・学習用データと性能評価方法. 自然言語処理技術 ～目的に応じた手法選択／精度向上手法／業務活用への提言, 第5章6節. 情報機構. March 2020.
+
+## Patents
+- 大萩雅也, <u>水本智也</u>, 吉川克正. 対話システム、プログラム、および制御方法. 特許第7827761号（特開2025-127928）.
